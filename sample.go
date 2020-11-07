@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	b.PrintB()
 	helpers.PrintA()
+	b.PrintB()
 }
